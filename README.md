@@ -1,4 +1,4 @@
 Android-Training
 ================
 
-Some android training program
+Some android training practice and enhancement
